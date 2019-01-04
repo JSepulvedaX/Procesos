@@ -1,0 +1,2 @@
+saga_cmd shapes_tools "Transform Shapes"  -IN "./salida/convexhull/convexhull.shp" -DX 0 -DY 0 -ANGLE 0 -SCALEX 1.3 -SCALEY 1.3 -ANCHORX -71.0554578356 -ANCHORY -33.4478878564 -OUT "./salida/final/final.shp"
+exit
